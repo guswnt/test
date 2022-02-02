@@ -1,9 +1,3 @@
-#vault:
-#  uri: https://vault-beta.daumkakao.io
-#  authentication: APPROLE
-#  app-role:
-#    role-id: ${ROLE_ID}
-#    secret-id: ${SECRET_ID}
-#  path: secret/dorang/app
+
 temp:
   test: ${env}

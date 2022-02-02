@@ -18,4 +18,9 @@ class TempTest {
         assertThat(1).isEqualTo(1)
 assertThat(test).isEqualTo("test22")
     }
+
+    @Test
+    fun tempT2() {
+        assertThat(1).isEqualTo(1)
+    }
 }
