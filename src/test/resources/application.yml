@@ -6,4 +6,4 @@
 #    secret-id: ${SECRET_ID}
 #  path: secret/dorang/app
 temp:
-  test: test
+  test: ${env}
